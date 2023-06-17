@@ -1,6 +1,6 @@
 # Map Matching Project
 
-This project implements map matching, which is the process of matching observed geographic coordinates to the underlying road network. The goal is to find the most likely route that a user has followed based on their recorded positions.
+This project implements map matching, which is the process of matching observed geographic coordinates to the underlying road network. The goal is to find the most likely route that a user has followed based on their recorded positions. The road network data was taken for San Francisco.
 
 ## Project Structure
 
@@ -8,6 +8,8 @@ The project is organized into two main folders:
 
 - `frontend`: Contains the frontend code for the map matching project.
 - `backend`: Contains the backend code for the map matching project.
+- `input`: Contains the sample input GPX traces.
+- `backend`: Contains the output after processing.
 
 ## Prerequisites
 
